@@ -29,7 +29,8 @@
 4. ./main 
 
 
-## what i learned fron this project
+## what i've learned from this project
 - cpp
 - oop
 - singleton design pattern
+- hands on cmake
