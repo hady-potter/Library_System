@@ -22,6 +22,13 @@
 - user return a book
 
 
+## how to compile 
+1. cd build
+2. in terminal run -> cmake -G "Unix Makefiles" ..
+3. make
+4. ./main 
+
+
 ## what i learned fron this project
 - cpp
 - oop
